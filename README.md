@@ -9,8 +9,8 @@ Exciting to get an insight into both worlds you know!
 
 Got inspiration from various YT videos and various step by step websites.
 
-This project has been really fun and creative and I have learned a lot.
+This project has been really fun and creative and I have learned a lot and *BONUS* you will learn a lot about me ;D .
 
-peace out! 
+Peace out! 
 
 // ZZ
