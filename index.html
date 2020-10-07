@@ -315,10 +315,20 @@
 
     /*Här gör jag en till eventListener så att bilderna går från tonade till de normala igen.
     Så mouseout säger att när musen inte är vid bilden så .remove img-darken klassen.*/
+<<<<<<< HEAD
     portfolioItems.forEach((portfolioItem) => {
       portfolioItem.addEventListener("mouseout", () => {
         portfolioItem.childNodes[1].classList.remove("img-darken");
       });
     });
   </script>
+=======
+    portfolioItems.forEach(portfolioItem => {
+        portfolioItem.addEventListener('mouseout', () => {
+            portfolioItem.childNodes[1].classList.remove('img-darken');
+        })
+    })
+</script>
+
+>>>>>>> ffcfaa6235da1716670bfb080907932c4b63b307
 </html>
